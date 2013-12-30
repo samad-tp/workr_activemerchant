@@ -225,3 +225,9 @@ information on adding a new gateway to ActiveMerchant.
 
 Please don't touch the CHANGELOG in your pull requests, we'll add the appropriate CHANGELOG entries
 at release time.
+=======
+workr_activemerchant
+====================
+
+Activemerchant Gem Version 1.40.0
+
