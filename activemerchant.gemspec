@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.author = 'Tobias Luetke'
   s.email = 'tobi@leetsoft.com'
   s.homepage = 'http://activemerchant.org/'
-  s.rubyforge_project = 'activemerchant'
+  #s.rubyforge_project = 'activemerchant'
 
   s.files = Dir['CHANGELOG', 'README.md', 'MIT-LICENSE', 'CONTRIBUTORS', 'gem-public_cert.pem', 'lib/**/*', 'vendor/**/*']
   s.require_path = 'lib'
